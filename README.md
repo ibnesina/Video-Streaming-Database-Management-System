@@ -4,3 +4,7 @@
 
 ## Schema Diagram
 <img src="https://github.com/ibnesina/Video-Streaming-Database-Management-System/blob/main/Schema%20Diagram.png" width="800px">
+<hr>
+
+## ER Diagram
+<img src="https://github.com/ibnesina/Video-Streaming-Database-Management-System/blob/main/ER%20Diagram.png" width="800px">
